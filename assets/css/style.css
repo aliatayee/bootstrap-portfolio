@@ -1,0 +1,8 @@
+.carousel-inner .carousel-item {
+    height: 1000px;
+    background-color: black;
+}
+
+.carousel-inner .carousel-item img {
+    background-size: cover;
+}
