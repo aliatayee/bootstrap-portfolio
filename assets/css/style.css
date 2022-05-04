@@ -6,3 +6,13 @@
 .carousel-inner .carousel-item img {
     background-size: cover;
 }
+
+.card {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    
+}
+
+.card img {
+    height: 400px;
+}

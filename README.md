@@ -43,7 +43,8 @@ $ cd bootstrap-portfolio
 
 👤 **Justine**
 
-
+- GitHub: [@ice949](https://github.com/ice949)
+- Twitter: [@justine_imasiku](https://twitter.com/justine_imasiku)
 
 ## 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
