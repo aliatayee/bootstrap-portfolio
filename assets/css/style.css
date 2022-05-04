@@ -10,9 +10,24 @@
 .card {
     margin-top: 30px;
     margin-bottom: 30px;
-    
 }
 
 .card img {
     height: 400px;
+}
+.profile {
+    display: grid;
+    justify-content: center;
+}
+
+@media screen and (max-width: 992px) {
+    .carousel-inner .carousel-item {
+        height: 300px;
+        background-color: black;
+    }
+}
+
+main {
+    display: grid;
+    justify-items: center;
 }
